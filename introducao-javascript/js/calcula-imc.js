@@ -58,7 +58,7 @@ function calculaImc(peso,altura){
 }
 
     titulo.addEventListener("click", function(){
-        console.log("Fui clicado pela funçao anonima")
+        console.log("Fui clicado pela função anonima")
     })
 
     function mostraMensagem(){
